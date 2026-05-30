@@ -202,7 +202,8 @@ margin-top:30px;
 
     <img src="pdfpage.png" alt="QR Code Pix" width="300">
 
-    <p>Após o pagamento envie o comprovante pelo WhatsApp.</p>
+    <p>Após o pagamento envie o comprovante pelo[infinite_pay_pix_qr_code (1).pdf](https://github.com/user-attachments/files/28422857/infinite_pay_pix_qr_code.1.pdf)
+ WhatsApp.</p>
 </section>>
 
 <p>Após o pagamento envie o comprovante.</p>
