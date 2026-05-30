@@ -197,7 +197,13 @@ margin-top:30px;
 <h2>Pague com Pix</h2>
 <p>Coloque aqui o arquivo do seu QR Code:</p>
 
-<img src="qrcode_pix.png" alt="QR Code Pix">
+<img <section class="pix">
+    <h2>Pague com Pix</h2>
+
+    <img src="pdfpage.png" alt="QR Code Pix" width="300">
+
+    <p>Após o pagamento envie o comprovante pelo WhatsApp.</p>
+</section>>
 
 <p>Após o pagamento envie o comprovante.</p>
 </section>
